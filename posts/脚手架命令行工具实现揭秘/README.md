@@ -340,6 +340,7 @@ export default async function install(name: string): Promise<void> {
   // 根据 package.json 中的依赖包，判断是否需要进行版本更新升级
   await ncu.run({
     jsonUpgraded: true,
+    upgrade: true,
     packageManager: 'npm',
     silent: true,
     packageFile: `./${name}/package.json`
