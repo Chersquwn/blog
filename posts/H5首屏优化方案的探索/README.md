@@ -101,6 +101,9 @@ webview在启动前需要进行初始化，那么我们其实可以在webview加
 ## 参考资料
 
 [腾讯祭出大招VasSonic，让你的H5页面首屏秒开！](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579269&idx=2&sn=bb9822d2cd9b0dc79134bd9990220571&chksm=84b3ba02b3c43314aeb54375f3e729fcef5495ab39a64c94719e218f28caa1fc4dde50f7c92d&mpshare=1&scene=23&srcid=0825CYa3KqzW532zZLQwVnnH%23rd)
+
 [QQ会员基于 Hybrid 的高质量 H5 架构实践](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579229&idx=2&sn=39bb897885791bf35147e4891624da38&chksm=84b3b5dab3c43ccc4ce034b67dbfb459db158999951953dc29f0f78f62d169f39de7f15b702d&mpshare=1&scene=23&srcid=0825igdu2RvKu7gPFF5FjESH%23rd)
+
 [百度APP-Android H5首屏优化实践](https://mp.weixin.qq.com/s/AqQgDB-0dUp2ScLkqxbLZg)
+
 [移动端本地 H5 秒开方案探索与实现](https://www.cnblogs.com/qcloud1001/p/9167371.html)
